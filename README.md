@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raval24
 - 👀 I’m interested in Everything
-- 🌱 I’m currently learning Web Designing
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Core Python
+-  Working at Akash Technolabs as Student Intern
 - 📫 How to reach me vedanshraval@hotmail.com
 
 <!---
